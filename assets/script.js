@@ -18,4 +18,4 @@ window.addEventListener('click', function(event){
         sideNav.classList.remove('show');
         modal.classList.remove('showModal');
     }
-});
+})
